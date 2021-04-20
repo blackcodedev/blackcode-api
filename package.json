@@ -1,0 +1,22 @@
+{
+  "name": "blackcode-api",
+  "version": "1.0.3",
+  "description": "BlackCode Botlist İçin API Modülü",
+  "main": "black.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!vote"
+  },
+  "keywords": [
+    "Black",
+    "Botlist",
+    "api",
+    "bot",
+    "list"
+  ],
+  "author": "PhroteX",
+  "license": "ISC"
+}
